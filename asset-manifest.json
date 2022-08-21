@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/library-/static/css/main.c10fef57.css",
+    "main.js": "/library-/static/js/main.8eee07d5.js",
+    "static/media/Reading book-pana.png": "/library-/static/media/Reading book-pana.62663d963abdd33afa98.png",
+    "index.html": "/library-/index.html",
+    "main.c10fef57.css.map": "/library-/static/css/main.c10fef57.css.map",
+    "main.8eee07d5.js.map": "/library-/static/js/main.8eee07d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c10fef57.css",
+    "static/js/main.8eee07d5.js"
+  ]
+}
